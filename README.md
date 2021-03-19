@@ -1,7 +1,7 @@
 # go4droid
 To build an android app (with go bindings) in Docker
 
-This Dockerfile was originally written to build `golang.org/x/mobile/example/bind/android` (with [golang.org/x/mobile/cmd/gomobile](https://godoc.org/golang.org/x/mobile/cmd/gomobile)) by @mpl [https://github.com/mp])
+This Dockerfile was originally written to build `golang.org/x/mobile/example/bind/android` (with [golang.org/x/mobile/cmd/gomobile](https://godoc.org/golang.org/x/mobile/cmd/gomobile)) by @mpl [https://github.com/mpl])
 
 The original docker image is hosted at [mpl7/go4droid](https://hub.docker.com/r/mpl7/go4droid/).
 
